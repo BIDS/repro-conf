@@ -20,8 +20,7 @@ Discussion lead by Justin Kitzes
 |12 noon   |Arrival. Lunch. Meet & Greet.   |
 |1:00 - 1:15  |Welcome and ethnography group introduction (Charlotte Cabasse Mazel). Day 2 assessment.|
 |1:15 - 1:30  |Introduce reproducibility case studies & methodology (Justin Kitzes). Example studies: Justin Kitzes & Daniel Turek|
-|1:30 - 3:00 |“Roll your own diagram” in pairs. |
-|2pm |*Coffee available*|
+|1:30 - 3:00 |“Roll your own diagram” in pairs. (*Coffee available from 2pm*) |
 |3:00 - 3:15 |Short break|
 |3:15 - 4:30 |Working on narratives (change the pairs).|
 |4:30 - 6:00|Report back case studies. Presentations (~9 volunteers).|
