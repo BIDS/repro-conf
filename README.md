@@ -17,7 +17,7 @@ Discussion lead by Justin Kitzes
 
 |        |     |
 |--------|-----|
-|12 noon   |Arrival. Stand-up catered lunch. Meet & Greet.   |
+|12 noon   |Arrival. Lunch. Meet & Greet.   |
 |1:00 - 1:15  |Welcome and ethnography group introduction (Charlotte Cabasse Mazel). Day 2 assessment.|
 |1:15 - 1:30  |Introduce reproducibility case studies & methodology (Justin Kitzes). Example studies: Justin Kitzes & Daniel Turek|
 |1:30 - 3:00 |“Roll your own diagram” in pairs. |
