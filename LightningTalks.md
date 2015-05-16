@@ -14,5 +14,5 @@
 |7:10 - 7:15 |Min Ragan-Kelley| Jupyter notebooks as a tool for reproducibility|
 |7:15 - 7:20 | Jessica Hamrick| nbgrader, a tool for grading IPython notebooks.|
 |7:20 - 7:25 | Allison Smith|Preliminary results on how journals for the field of ecology deal with software and reproducibility. |
-|7:25 - 7:30 | Karthik Ram| tbc |
+|7:25 - 7:30 | |  |
 |7:30 - 7:35 | |
