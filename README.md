@@ -50,9 +50,9 @@ Discussion lead by Fatma Imamoglu and Karthik Ram
 
 |        |     |
 |--------|-----|
-|2:00 - 2:15  | Introduction and top 10 reproducibility assessment questions to divide groups|
-|2:15 - 3:15  | Small group discussion to create a self-assessment checklist/decision tree (~5-6 groups) |
-|3:15 - 3:30  | Coffee break |
-|3:30 - 5:00  | Draft and publish version 0.1 of the tool |
-|5:00 - 6:00  | Report back.|
-|6:00 -       | Dinner and drinks.  |
+|2:00 - 2:20  | Introduction and group assignment|
+|2:20 - 3:10  | Small group discussion to create a self-assessment checklist/decision tree (7 groups) |
+|3:10 - 3:30  | Coffee break |
+|3:30 - 5:00  | Report back |
+|5:00 - 6:00  | Drinks and socializing |
+|6:00 -       | Dinner  |
