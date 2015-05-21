@@ -13,7 +13,7 @@
 
 Discussion lead by Justin Kitzes
 
-
+[Case studies Repo](https://github.com/BIDS/repro-case-studies)
 
 |        |     |
 |--------|-----|
@@ -47,6 +47,8 @@ Discussion lead by Philip Stark
 **SESSION III: Brainstorming Project: Reproducibility self-assessment**
 
 Discussion lead by Fatma Imamoglu and Karthik Ram
+
+[Self Evaluation Repo](https://github.com/BIDS/reproducibility-wg/blob/master/self_eval/self-eval.md)
 
 |        |     |
 |--------|-----|
