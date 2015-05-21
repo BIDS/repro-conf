@@ -29,7 +29,8 @@ Discussion lead by Justin Kitzes
 
 *Circulate syllabi links for education curriculum as a preparation for day 2*
 
-* [UCB Stat 159/259 (Fall 2015) website](http://www.jarrodmillman.com/stat159-fall2015)
+* [Collection of syllabi](https://drive.google.com/open?id=1GqFWRh390MISdPX-v3aT1KM87IAHOWMLsAEuVlkCF68&authuser=0)
+
 
 ### Day 2 (Friday, May 22, 2015)
 
