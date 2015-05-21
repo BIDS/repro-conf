@@ -51,7 +51,7 @@ Discussion lead by Philip Stark
 
 Discussion lead by Fatma Imamoglu and Karthik Ram
 
-[Self Evaluation Repo](https://github.com/BIDS/reproducibility-wg/blob/master/self_eval/self-eval.md)
+[Self-Assessment Repo](https://github.com/BIDS/reproducibility-wg/blob/master/self_eval/self-eval.md)
 
 |        |     |
 |--------|-----|
