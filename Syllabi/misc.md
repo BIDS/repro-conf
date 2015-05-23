@@ -2,27 +2,28 @@
 
 ## What should we teach?
 
-* We've mostly spoken about software tools (i.e., Git, GitHub, Docker,
+* We've talked a lot about software tools (i.e., Git, GitHub, Docker,
   Python, R, Make, unit tests, etc.) for reproducibility.  Yet the mechanical
   reproduction of results is not an end, but a means to provide a secure
-  foundation for reliable research.  To what extent
-  should we be teaching/discussing other aspects of computational
+  foundation for reliable research.  How do we make sure students don't
+  miss the forest for the trees?
+* To what extent should we be teaching/discussing other aspects of computational
   reproducibility (e.g., statistical issues) and tool-agnostic principles
-  that can be introduced in many different contexts.
+  that can be introduced in many different contexts?
 * Statistical training makes sense for many scientists, but may
   not be as widely appropriate as the tools for computational reproducibility.
   For instance, what role would statistical concerns play in a traditional
-  numerical analysis course. The specifics of statistical reproducbility
-  are probably best determined at a domain specific level.  There might still
+  deterministic computational science course? The specifics of statistical reproducibility
+  are probably best determined at a domain-specific level.  There might still
   be some statistical issues that cross many domains. For example, the
   relationship between effect size and probability of reproducing that result.
-* It is an open question as to what exactly we mean by the term
+* It is an open question what we mean exactly by the term
   computational research.  Different domains will have different working
   definitions and issues.  However, we do seem to agree on the usefulness
   of some of the core tools, which are shared across domains.
 * There are also issues involved with open science and access such as
   licenses, permanent identifiers, provenance, appropriate data repositories,
-  and open access publication.
+  and open access publication. These should be included in courses.
 * Teaching some philosophy of science might increase students "buy-in",
   convincing them that reproducibility is a thing to pursue.
 * Relatedly: there might be an argument for teaching "data science for
@@ -49,6 +50,7 @@
   of reproducibility without demanding
   high-level skills in specialised software tools.  As class sizes grow,
   detailed individual review becomes increasingly difficult.
+  Some ideas:
   * combine autograding, with short answer (1 sentence to 1 paragraph)
     interpretive responses to demonstrate you've understood what you've
     done and why you did it.
