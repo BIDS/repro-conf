@@ -13,7 +13,9 @@
   not be as widely appropriate as the tools for computational reproducibility.
   For instance, what role would statistical concerns play in a traditional
   numerical analysis course. The specifics of statistical reproducbility
-  are probably best determined at a domain specific level.
+  are probably best determined at a domain specific level.  There might still
+  be some statistical issues that cross many domains. For example, the
+  relationship between effect size and probability of reproducing that result.
 * It is an open question as to what exactly we mean by the term
   computational research.  Different domains will have different working
   definitions and issues.  However, we do seem to agree on the usefulness
@@ -21,6 +23,11 @@
 * There are also issues involved with open science and access such as
   licenses, permanent identifiers, provenance, appropriate data repositories,
   and open access publication.
+* Teaching some philosophy of science might increase students "buy-in",
+  convincing them that reproducibility is a thing to pursue.
+* Relatedly: there might be an argument for teaching "data science for
+  future presidents" (analogous to UCB's "physics for future presidents"),
+  in which the tools are not taught, but the concepts, and their importance, are.
 
 ## Class assessment
 
