@@ -32,6 +32,8 @@ This might be gleaned from our case studies.
             + etc.
             + experience the cost/pain of the other's failures to work reproducibly
     + Wrap up at end of term.
+        + One more handoff between teams to verify that they can install/build/run/replicate
+each other's work in final form; make adjustments as needed; assess
         + Publish the scientific result with group authorship
         + Contribute the module to the package by pull request
             + help with code review for that request?
